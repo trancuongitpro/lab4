@@ -1,0 +1,6 @@
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\IndexersDemo\bin\Debug\IndexersDemo.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\IndexersDemo\bin\Debug\IndexersDemo.pdb
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\IndexersDemo\obj\Debug\IndexersDemo.csproj.AssemblyReference.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\IndexersDemo\obj\Debug\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\IndexersDemo\obj\Debug\IndexersDemo.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\IndexersDemo\obj\Debug\IndexersDemo.pdb

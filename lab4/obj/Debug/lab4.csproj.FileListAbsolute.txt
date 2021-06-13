@@ -1,0 +1,6 @@
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\lab4\bin\Debug\lab4.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\lab4\bin\Debug\lab4.pdb
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\lab4\obj\Debug\lab4.exe
+C:\Users\TRAN DUNG\RiderProjects\ConsoleApplicatbai\lab4\obj\Debug\lab4.pdb
